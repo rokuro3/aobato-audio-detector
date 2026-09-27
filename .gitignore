@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+python/
+assets/
+get-pip.py
+python-embed.zip
+*.download
+.env
+.streamlit/secrets.toml
