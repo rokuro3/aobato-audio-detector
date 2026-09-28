@@ -2,7 +2,7 @@
 setlocal
 cd /d "%~dp0"
 if not exist "python\python.exe" (
-  echo Embedded Python is not installed. Double-click setup_embedded_python.bat first.
+  echo Embedded Python is not installed. Double-click setup.bat first.
   pause
   exit /b 1
 )
