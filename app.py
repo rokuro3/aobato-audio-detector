@@ -146,7 +146,7 @@ def main() -> None:
         )
         st.divider()
         st.caption(
-            "使用モデル: BirdNET+ V3.0 Developer Preview 3.1\n\n"
+            "Powered by BirdNET+ V3.0 Developer Preview 3.1\n\n"
             "ライセンス: [CC BY-SA 4.0]"
             "(https://creativecommons.org/licenses/by-sa/4.0/)"
         )

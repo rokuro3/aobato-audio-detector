@@ -23,4 +23,12 @@ python -m pip install -r requirements.txt
 streamlit run app.py
 ```
 
+## クレジット
+
+Powered by BirdNET+ V3.0 Developer Preview 3.1。BirdNET+ V3.0
+
+- ライセンス: [Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/)
+- 引用: Lasseck, M., Eibl, M., Klinck, H., & Kahl, S. (2026). *BirdNET+ V3.0 model developer preview (Preview 3.1).* Zenodo. [https://doi.org/10.5281/zenodo.20703646](https://doi.org/10.5281/zenodo.20703646)
+- 利用条件: [BirdNET+ V3.0 Developer Preview Terms of Use](https://github.com/birdnet-team/birdnet-V3.0-dev/blob/main/TERMS_OF_USE.md)
+
 BirdNET+ V3.0 developer previewのモデルおよび利用条件は、リポジトリの `TERMS_OF_USE.md` と公式配布元を確認してください。再配布時はモデルの利用条件とZenodoの配布条件を必ず守ってください。
